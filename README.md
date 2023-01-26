@@ -4,7 +4,6 @@
 <img align="right" width="400" src="https://user-images.githubusercontent.com/38730778/214898529-09df2740-a727-4520-b73a-6a0d3723720c.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashiqurrahmananik&label=Profile%20views&color=0e75b6&style=flat" alt="ashiqurrahmananik" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ashiquranik25" target="blank"><img src="https://img.shields.io/twitter/follow/ashiquranik25?logo=twitter&style=for-the-badge" alt="ashiquranik25" /></a> </p>
 
 - 🌱 I’m currently learning **MERN STACK**
 
@@ -30,4 +29,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashiqurrahmananik&show_icons=true&locale=en&layout=compact" alt="ashiqurrahmananik" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashiqurrahmananik&show_icons=true&locale=en" alt="ashiqurrahmananik" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ashiqurrahmananik&show_icons=true&locale=en" alt="ashiqurrahmananik" /></p>
