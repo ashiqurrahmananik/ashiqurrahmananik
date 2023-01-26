@@ -1,11 +1,8 @@
 ![banner](https://user-images.githubusercontent.com/38730778/214901429-9a5944da-6de9-484c-ae4c-5f4aa899793c.png)
 <h1 align="center">Hi 👋, I'm Ashiqur Rahman Anik</h1>
 <h3 align="center">A passionate Web developer from Bangladesh</h3>
-
-
+<img align="right" width="400" src="https://user-images.githubusercontent.com/38730778/214898529-09df2740-a727-4520-b73a-6a0d3723720c.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashiqurrahmananik&label=Profile%20views&color=0e75b6&style=flat" alt="ashiqurrahmananik" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashiqurrahmananik" alt="ashiqurrahmananik" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ashiquranik25" target="blank"><img src="https://img.shields.io/twitter/follow/ashiquranik25?logo=twitter&style=for-the-badge" alt="ashiquranik25" /></a> </p>
 
