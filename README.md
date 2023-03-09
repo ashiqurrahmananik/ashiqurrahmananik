@@ -20,7 +20,7 @@
 <a href="https://twitter.com/ashiquranik25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashiquranik25" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ashiquranik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashiquranik" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/12880303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12880303" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ashiquranikhttps://www.youtube.com/@ashiquranik)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ashiquranik" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@ashiquranik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ashiquranik" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ashiquranik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashiquranik" height="30" width="40" /></a>
 </p>
 
